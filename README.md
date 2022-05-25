@@ -19,7 +19,10 @@ Skill set:
 - Modern, flexible, clean and fresh UI animation effects 
 - Dynamic customise User Interface modules and APIs 
 - Communication: Excellent written & spoken English skills 
-
+BlockChain Area:
+- Solidity, RUST, Web3, React, JavaScript
+- NFT, Smart Contract, Solana ,Etherium, Binance API
+- Coin MarketPlace
 Web service and Backend programming: 
 - Firebase, AWS, JSON, XML, REST,VOIP, SOAP APIs 
 
