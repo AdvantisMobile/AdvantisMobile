@@ -65,5 +65,7 @@ Sphere of experience:
 - Free submitting Appstore and Support marketing 
 
 I'll be happy to discuss your great ideas and become part of those ventures.  Happy to enjoy the mobile application development with me.
+
 Sincerely!
+
 Advantis
